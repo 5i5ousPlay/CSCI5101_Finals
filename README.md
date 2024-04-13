@@ -31,3 +31,6 @@ gantt chart will then be generated illustrating the execution of the different p
 scheduling algorithm as well as displaying the average waiting time. The command line will also print out the average
 waiting time of the given inputs. Exiting the window of the gantt chart will continue the program providing the user
 with the prompt to try again (Y/N). If the user inputs 'Y' the process will repeat, else the program will exit.
+
+**NOTE:** To see a demonstration of the program, see the `demo` directory for screenshots of the program in use and
+the outputs of the program.
