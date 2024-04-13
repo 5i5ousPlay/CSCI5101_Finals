@@ -1,7 +1,7 @@
 # CSCI 51.01 - Lecture Finals Project (Implementation)
 
-_Submitted by Raul Jarod Conanan (Section F) in partial fulfillment of the finals project for CSCI 51.02: Operating
-Systems_
+_Submitted by Raul Jarod Conanan (Section F) in partial fulfillment of the finals project for CSCI 51.01: Operating
+Systems - Lecture_
 
 # Running the Program
 
